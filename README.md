@@ -1,7 +1,10 @@
 <div align="center">
 
 # Mehdi Ali
-### MERN Stack Developer | Full-Stack Engineer |
+
+### MERN Stack Developer | AI/ML Engineer | Full-Stack
+
+*Building production-ready web apps and AI-integrated systems from Lahore, Pakistan*
 
 </div>
 
@@ -9,38 +12,24 @@
 
 ## 👋 About Me
 
-I'm a full-stack MERN developer based in Lahore, Pakistan, building production-ready web applications and AI-integrated systems. I focus on clean architecture, real-world deployment, and bridging web development with AI/ML.
+I'm a full-stack MERN developer based in Lahore, Pakistan, focused on building
+real-world, deployed applications. I bridge web development with AI/ML —
+from e-commerce platforms to RAG pipelines and real-time chat systems.
 
-- 🔭 Currently working on **AI/ML projects and automation tools**
-- 🌱 Currently learning **Redux Toolkit, LangChain, RAG pipelines**
-- 💼 Actively seeking **Junior Full-Stack / AI Engineer roles in Lahore**
-- 🎓 BS Information Technology — The Islamia University of Bahawalpur
-- 📫 Reach me at **mehdi035559@gmail.com**
+- 🔭 Currently building: **Skardu Flight Alert Agent** (Python + Telegram Bot automation)
+- 🌱 Currently learning: **Redux Toolkit · LangChain · MLOps**
+- 💼 Open to: **Junior Full-Stack / AI-ML Engineer roles in Lahore**
+- 🎓 BS APD Information Technology — The Islamia University of Bahawalpur (CGPA 3.32)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Tools & Deployment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+**Frontend:** React.js · Tailwind CSS · Zustand · Redux Toolkit · HTML · CSS  
+**Backend:** Node.js · Express.js · REST APIs · Socket.io  
+**Database:** MongoDB · Mongoose  
+**AI/ML:** Python · LangChain · HuggingFace · RAG · Scikit-learn · NumPy · Pandas  
+**Tools & Services:** Git · Vercel · Cloudinary · Stripe · JWT · Docker  
 
 ---
 
@@ -48,33 +37,55 @@ I'm a full-stack MERN developer based in Lahore, Pakistan, building production-r
 
 ### 🛒 ShopWave — Full-Stack E-Commerce Platform
 
-> Production-ready e-commerce platform with complete shopping experience, admin dashboard, and secure payments.
+> Production-ready e-commerce platform with complete buyer and admin flows.
 
 | Metric | Value |
 |--------|-------|
-| 🗄 Stack | React · Node.js · Express · MongoDB · Stripe |
-| 🔐 Auth | JWT + Role-Based Access Control (RBAC) |
-| 📦 Media | Cloudinary image management |
-| ☁️ Deploy | Vercel (frontend + serverless backend) + MongoDB Atlas |
+| 🗄 Stack | React · Node.js · Express · MongoDB · Stripe · Cloudinary |
+| 🔐 Auth | JWT + Role-Based Access Control (Admin / User) |
+| 📦 Architecture | MVC · RESTful APIs · Serverless deployment |
+| 🚀 Deploy | Vercel (frontend + backend) · MongoDB Atlas |
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shopwave-frontend-jade.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehdi-dev-code/MERN_Project_E-commerce-website)
+[🌐 Live Demo](https://shopwave-frontend-jade.vercel.app/) · [📁 Repository](https://github.com/mehdi-dev-code/MERN_Project_E-commerce-website)
 
 ---
 
 ### 💬 ChatterBox — Real-Time Chat Application
 
-> University Final Year Project. Real-time messaging app with live online presence and modern UI.
+> University Final Year Project. Real-time messaging with live presence indicators.
 
 | Metric | Value |
 |--------|-------|
 | 🗄 Stack | React · Node.js · Socket.io · Zustand · Tailwind CSS |
-| ⚡ Feature | Real-time messaging with Socket.io |
-| 🎨 State | Zustand global state management |
-| ☁️ Deploy | Vercel (frontend) |
+| ⚡ Features | Real-time messaging · Online status · JWT auth |
+| 🚀 Deploy | Vercel (frontend) · MongoDB Atlas |
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chatter-box-ten-omega.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehdi-dev-code/Chatter-Box)
+[🌐 Live Demo](https://chatter-box-ten-omega.vercel.app/) · [📁 Repository](https://github.com/mehdi-dev-code/Chatter-Box)
+
+---
+
+### 🏥 Medical RAG System — AI Document Q&A
+
+> RAG pipeline for querying medical documents using LangChain and vector search.
+
+| Metric | Value |
+|--------|-------|
+| 🗄 Stack | Python · LangChain · HuggingFace · FAISS · FastAPI |
+| 🧠 Features | Document ingestion · Semantic search · LLM responses |
+
+[📁 Repository](https://github.com/mehdi-dev-code/Medical-rag-system)
+
+---
+
+### 📊 EDA Projects — Data Analysis & Visualization
+
+> Exploratory data analysis projects using Python data science stack.
+
+| Metric | Value |
+|--------|-------|
+| 🗄 Stack | Python · Pandas · NumPy · Matplotlib · Seaborn |
+
+[📁 Repository](https://github.com/mehdi-dev-code/EDA_Projects)
 
 ---
 
@@ -86,7 +97,7 @@ I'm a full-stack MERN developer based in Lahore, Pakistan, building production-r
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-dev-code&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mehdi-dev-code&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehdi-dev-code&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -105,5 +116,7 @@ I'm a full-stack MERN developer based in Lahore, Pakistan, building production-r
 ---
 
 <div align="center">
-  <i>Open to Junior Full-Stack and AI Engineer opportunities in Lahore, Pakistan</i>
+
+*"Code that ships > Code that sits in branches"*
+
 </div>
