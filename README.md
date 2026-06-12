@@ -16,10 +16,9 @@ I'm a full-stack MERN developer based in Lahore, Pakistan, focused on building
 real-world, deployed applications. I bridge web development with AI/ML —
 from e-commerce platforms to RAG pipelines and real-time chat systems.
 
-- 🔭 Currently building: **Skardu Flight Alert Agent** (Python + Telegram Bot automation)
-- 🌱 Currently learning: **Redux Toolkit · LangChain · MLOps**
+- 🌱 Currently learning: **Redux Toolkit · LangChain **
 - 💼 Open to: **Junior Full-Stack / AI-ML Engineer roles in Lahore**
-- 🎓 BS APD Information Technology — The Islamia University of Bahawalpur (CGPA 3.32)
+- 🎓 BS Information Technology — The Islamia University of Bahawalpur, Pakistan
 
 ---
 
