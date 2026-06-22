@@ -82,7 +82,7 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 | 📦 Architecture | MVC · RESTful APIs · WebSocket-based interview engine |
 | 🚀 Deploy | Vercel (frontend) · Render (backend) · MongoDB Atlas |
 
-[📁 Repository](https://github.com/mehdi-dev-code/ai-interview-prep-platform-)
+[📁 Repository](https://github.com/mehdi-dev-code/AI-Interview-Career-Prep-Platform)
 
 ---
 
