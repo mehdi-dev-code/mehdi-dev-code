@@ -1,9 +1,7 @@
 <div align="center">
 
 # Mehdi Ali
-
 ### MERN Stack Developer | AI/ML Engineer | Full-Stack
-
 *Building production-ready web apps and AI-integrated systems from Lahore, Pakistan*
 
 </div>
@@ -16,7 +14,7 @@ I'm a full-stack MERN developer based in Lahore, Pakistan, focused on building
 real-world, deployed applications. I bridge web development with AI/ML —
 from e-commerce platforms to RAG pipelines and real-time chat systems.
 
-- 🌱 Currently learning: **Redux Toolkit · LangChain **
+- 🌱 Currently learning: **Redux Toolkit · LangChain**
 - 💼 Open to: **Junior Full-Stack / AI-ML Engineer roles in Lahore**
 - 🎓 BS Information Technology — The Islamia University of Bahawalpur, Pakistan
 
@@ -28,14 +26,13 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 **Backend:** Node.js · Express.js · REST APIs · Socket.io  
 **Database:** MongoDB · Mongoose  
 **AI/ML:** Python · LangChain · HuggingFace · RAG · Scikit-learn · NumPy · Pandas  
-**Tools & Services:** Git · Vercel · Cloudinary · Stripe · JWT · Docker  
+**Tools & Services:** Git · Vercel · Cloudinary · Stripe · JWT · Docker
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛒 ShopWave — Full-Stack E-Commerce Platform
-
 > Production-ready e-commerce platform with complete buyer and admin flows.
 
 | Metric | Value |
@@ -50,7 +47,6 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 ---
 
 ### 💬 ChatterBox — Real-Time Chat Application
-
 > University Final Year Project. Real-time messaging with live presence indicators.
 
 | Metric | Value |
@@ -64,7 +60,6 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 ---
 
 ### 🏥 Medical RAG System — AI Document Q&A
-
 > RAG pipeline for querying medical documents using LangChain and vector search.
 
 | Metric | Value |
@@ -76,8 +71,22 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 
 ---
 
-### 📊 EDA Projects — Data Analysis & Visualization
+### 🎤 AI Interview & Career Prep Platform — Resume Feedback & Mock Interviews
+> Real-time AI mock interviews with adaptive follow-up questions, plus instant AI-powered resume feedback.
 
+| Metric | Value |
+|--------|-------|
+| 🗄 Stack | React · Node.js · Express · MongoDB · Socket.io · Gemini API |
+| 🔐 Auth | JWT |
+| 🧠 Features | Adaptive AI interview flow · Resume scoring · Real-time chat · Performance feedback |
+| 📦 Architecture | MVC · RESTful APIs · WebSocket-based interview engine |
+| 🚀 Deploy | Vercel (frontend) · Render (backend) · MongoDB Atlas |
+
+[🌐 Live Demo](#) · [📁 Repository](https://github.com/mehdi-dev-code/ai-interview-career-prep)
+
+---
+
+### 📊 EDA Projects — Data Analysis & Visualization
 > Exploratory data analysis projects using Python data science stack.
 
 | Metric | Value |
@@ -93,7 +102,6 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 <div align="center">
 
 ![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdi-dev-code&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-dev-code&layout=compact&theme=radical&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mehdi-dev-code&theme=radical&hide_border=true)](https://git.io/streak-stats)
@@ -119,3 +127,4 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 *"Code that ships > Code that sits in branches"*
 
 </div>
+
