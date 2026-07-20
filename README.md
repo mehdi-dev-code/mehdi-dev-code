@@ -69,7 +69,7 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 | 📦 Architecture | REST API · Vector search (FAISS) · Local embeddings (no API cost) |
 | 🚀 Deploy | Vercel (frontend) · Hugging Face Spaces (backend) |
 
-[🌐 Live Demo](#) · [📁 Repository](https://github.com/mehdi-dev-code/medical-rag-assistant)
+[📁 Repository](https://github.com/mehdi-dev-code/medical-rag-assistant)
 
 ---
 
