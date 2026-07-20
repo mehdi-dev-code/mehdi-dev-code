@@ -59,15 +59,17 @@ from e-commerce platforms to RAG pipelines and real-time chat systems.
 
 ---
 
-### 🏥 Medical RAG System — AI Document Q&A
-> RAG pipeline for querying medical documents using LangChain and vector search.
+### 🏥 Medical RAG System — Full-Stack AI Document Q&A
+> Full-stack RAG application for medical Q&A — React frontend, FastAPI backend, hybrid grounded/general-knowledge answering with live retrieval visualization.
 
 | Metric | Value |
 |--------|-------|
-| 🗄 Stack | Python · LangChain · HuggingFace · FAISS · FastAPI |
-| 🧠 Features | Document ingestion · Semantic search · LLM responses |
+| 🗄 Stack | Python · FastAPI · LangChain · Gemini API · HuggingFace · FAISS · React · Vite |
+| 🧠 Features | Semantic document retrieval · Hybrid grounded/general-knowledge answering · Live retrieval-trace visualization · Response quality evaluation |
+| 📦 Architecture | REST API · Vector search (FAISS) · Local embeddings (no API cost) |
+| 🚀 Deploy | Vercel (frontend) · Hugging Face Spaces (backend) |
 
-[📁 Repository](https://github.com/mehdi-dev-code/Medical-rag-system)
+[📁 Repository](https://github.com/mehdi-dev-code/medical-rag-assistant)
 
 ---
 
