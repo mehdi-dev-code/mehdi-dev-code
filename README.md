@@ -71,20 +71,19 @@ A full-stack Retrieval-Augmented Generation application for answering questions 
 
 ---
 
-### 2. GPT-2 with Grouped-Query Attention & BPE
+### 2. AI-Powered Budget-Aware Tourism Planner
 
-**Python | Transformers | Deep Learning | Natural Language Processing**
+**Python | LangGraph | Multi-Agent Systems | React | SerpApi**
 
-A GPT-2-style language model implemented from scratch with Grouped-Query Attention (GQA) and Byte Pair Encoding (BPE) tokenization.
+A multi-agent tourism planning system designed to generate budget-aware travel itineraries for Northern Pakistan.
 
 **Key Features:**
-- GPT-2-style transformer architecture.
-- Grouped-Query Attention implementation.
-- Custom BPE tokenizer.
-- Training on the Shakespeare dataset.
-- Text generation using the trained model.
+- Specialized agents for accommodation, flights, transport and seasonal destinations.
+- Budget-aware itinerary generation.
+- Flight search integration using SerpApi.
+- Coordinated agent workflows using LangGraph.
 
-[📁 GitHub Repository](https://github.com/mehdi-dev-code/gpt2-gqa-bpe)
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/AI-Powered-Budget-Aware-Tourism-Planner)
 
 ---
 
@@ -107,19 +106,20 @@ A Python framework for defining, validating, and querying structured business on
 
 ---
 
-### 4. AI-Powered Budget-Aware Tourism Planner
+### 4. GPT-2 with Grouped-Query Attention & BPE
 
-**Python | LangGraph | Multi-Agent Systems | React | SerpApi**
+**Python | Transformers | Deep Learning | Natural Language Processing**
 
-A multi-agent tourism planning system designed to generate budget-aware travel itineraries for Northern Pakistan.
+A GPT-2-style language model implemented from scratch with Grouped-Query Attention (GQA) and Byte Pair Encoding (BPE) tokenization.
 
 **Key Features:**
-- Specialized agents for accommodation, flights, transport and seasonal destinations.
-- Budget-aware itinerary generation.
-- Flight search integration using SerpApi.
-- Coordinated agent workflows using LangGraph.
+- GPT-2-style transformer architecture.
+- Grouped-Query Attention implementation.
+- Custom BPE tokenizer.
+- Training on the Shakespeare dataset.
+- Text generation using the trained model.
 
-[📁 GitHub Repository](https://github.com/mehdi-dev-code/AI-Powered-Budget-Aware-Tourism-Planner)
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/gpt2-gqa-bpe)
 
 ---
 
