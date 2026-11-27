@@ -84,7 +84,7 @@ A GPT-2-style language model implemented from scratch with Grouped-Query Attenti
 - Training on the Shakespeare dataset.
 - Text generation using the trained model.
 
-[📁 GitHub Repository](https://github.com/mehdi-dev-code/REPLACE-WITH-GPT2-REPO-NAME)
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/gpt2-gqa-bpe)
 
 ---
 
