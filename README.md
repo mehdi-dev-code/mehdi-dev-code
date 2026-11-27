@@ -1,8 +1,16 @@
 <div align="center">
 
 # Mehdi Ali
-### MERN Stack Developer | AI/ML Engineer | Full-Stack
-*Building production-ready web apps and AI-integrated systems from Lahore, Pakistan*
+
+### AI/ML Engineer | LLM & Agentic Systems | Full-Stack Developer
+
+Building RAG systems, transformer models, intelligent agents, and AI-powered applications.
+
+**Lahore, Pakistan**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehdi-dev-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-ali-a33881296/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdi035559@gmail.com)
 
 </div>
 
@@ -10,112 +18,166 @@
 
 ## 👋 About Me
 
-I'm a full-stack MERN developer based in Lahore, Pakistan, focused on building
-real-world, deployed applications. I bridge web development with AI/ML —
-from e-commerce platforms to RAG pipelines and real-time chat systems.
+I'm an AI/ML Engineer and Full-Stack Developer with a BS in Information Technology from The Islamia University of Bahawalpur, Pakistan.
 
-- 🌱 Currently learning: **Redux Toolkit · LangChain**
-- 💼 Open to: **Junior Full-Stack / AI-ML Engineer roles in Lahore**
-- 🎓 BS Information Technology — The Islamia University of Bahawalpur, Pakistan
+My primary focus is building practical AI applications and intelligent systems, including Retrieval-Augmented Generation (RAG) pipelines, LLM-powered applications, transformer architectures, and multi-agent systems.
 
----
+I enjoy understanding how AI models and intelligent systems work internally, then integrating them into functional software applications.
 
-## 🛠 Tech Stack
-
-**Frontend:** React.js · Tailwind CSS · Zustand · Redux Toolkit · HTML · CSS  
-**Backend:** Node.js · Express.js · REST APIs · Socket.io  
-**Database:** MongoDB · Mongoose  
-**AI/ML:** Python · LangChain · HuggingFace · RAG · Scikit-learn · NumPy · Pandas  
-**Tools & Services:** Git · Vercel · Cloudinary · Stripe · JWT · Docker
+- 🧠 **Focus:** LLMs, RAG, Agentic AI, Knowledge Graphs, Machine Learning and Deep Learning
+- 🌱 **Currently Exploring:** LangGraph, Multi-Agent Systems, Reinforcement Learning and Advanced LLM Architectures
+- 💼 **Open to:** On-site Junior AI/ML Engineer and Generative AI Engineer opportunities in Lahore
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### 🛒 ShopWave — Full-Stack E-Commerce Platform
-> Production-ready e-commerce platform with complete buyer and admin flows.
+**Programming & Data Science:**  
+Python · JavaScript · NumPy · Pandas · Scikit-learn
 
-| Metric | Value |
-|--------|-------|
-| 🗄 Stack | React · Node.js · Express · MongoDB · Stripe · Cloudinary |
-| 🔐 Auth | JWT + Role-Based Access Control (Admin / User) |
-| 📦 Architecture | MVC · RESTful APIs · Serverless deployment |
-| 🚀 Deploy | Vercel (frontend + backend) · MongoDB Atlas |
+**Machine Learning & AI:**  
+Machine Learning · Deep Learning · Generative AI · LLMs · Hugging Face · Model Evaluation
 
-[🌐 Live Demo](https://shopwave-frontend-jade.vercel.app/) · [📁 Repository](https://github.com/mehdi-dev-code/MERN_Project_E-commerce-website)
+**LLM & Agentic AI:**  
+LangChain · LangGraph · RAG · FAISS · Multi-Agent Systems · MCP · Gemini API · Vector Search
 
----
+**Backend & APIs:**  
+FastAPI · Node.js · Express.js · REST APIs
 
-### 💬 ChatterBox — Real-Time Chat Application
-> University Final Year Project. Real-time messaging with live presence indicators.
+**Frontend Development:**  
+React.js · HTML · CSS · Tailwind CSS
 
-| Metric | Value |
-|--------|-------|
-| 🗄 Stack | React · Node.js · Socket.io · Zustand · Tailwind CSS |
-| ⚡ Features | Real-time messaging · Online status · JWT auth |
-| 🚀 Deploy | Vercel (frontend) · MongoDB Atlas |
-
-[🌐 Live Demo](https://chatter-box-ten-omega.vercel.app/) · [📁 Repository](https://github.com/mehdi-dev-code/Chatter-Box)
+**Databases & Tools:**  
+MongoDB · Git · GitHub · Docker · Vercel
 
 ---
 
-### 🏥 Medical RAG System — Full-Stack AI Document Q&A
-> Full-stack RAG application for medical Q&A — React frontend, FastAPI backend, hybrid grounded/general-knowledge answering with live retrieval visualization.
+## 🚀 Featured AI/ML Projects
 
-| Metric | Value |
-|--------|-------|
-| 🗄 Stack | Python · FastAPI · LangChain · Gemini API · HuggingFace · FAISS · React · Vite |
-| 🧠 Features | Semantic document retrieval · Hybrid grounded/general-knowledge answering · Live retrieval-trace visualization · Response quality evaluation |
-| 📦 Architecture | REST API · Vector search (FAISS) · Local embeddings (no API cost) |
-| 🚀 Deploy | Vercel (frontend) · Hugging Face Spaces (backend) |
+### 1. Medical RAG System — AI-Powered Document Q&A
 
-[📁 Repository](https://github.com/mehdi-dev-code/medical-rag-assistant)
+**Python | FastAPI | LangChain | Gemini | Hugging Face | FAISS | React**
 
----
+A full-stack Retrieval-Augmented Generation application for answering questions using medical documents.
 
-### 🎤 AI Interview & Career Prep Platform — Resume Feedback & Mock Interviews
-> Real-time AI mock interviews with adaptive follow-up questions, plus instant AI-powered resume feedback.
+**Key Features:**
+- Semantic document retrieval using local embeddings and FAISS vector search.
+- Hybrid grounded and general-knowledge answering.
+- Retrieval Trace panel showing source passages behind generated answers.
+- Response quality evaluation.
+- React frontend integrated with a FastAPI backend.
 
-| Metric | Value |
-|--------|-------|
-| 🗄 Stack | React · Node.js · Express · MongoDB · Socket.io · Gemini API |
-| 🔐 Auth | JWT |
-| 🧠 Features | Adaptive AI interview flow · Resume scoring · Real-time chat · Performance feedback |
-| 📦 Architecture | MVC · RESTful APIs · WebSocket-based interview engine |
-| 🚀 Deploy | Vercel (frontend) · Render (backend) · MongoDB Atlas |
-
-[📁 Repository](https://github.com/mehdi-dev-code/AI-Interview-Career-Prep-Platform)
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/medical-rag-assistant)
 
 ---
 
-### 📊 EDA Projects — Data Analysis & Visualization
-> Exploratory data analysis projects using Python data science stack.
+### 2. GPT-2 with Grouped-Query Attention & BPE
 
-| Metric | Value |
-|--------|-------|
-| 🗄 Stack | Python · Pandas · NumPy · Matplotlib · Seaborn |
+**Python | Transformers | Deep Learning | Natural Language Processing**
 
-[📁 Repository](https://github.com/mehdi-dev-code/EDA_Projects)
+A GPT-2-style language model implemented from scratch with Grouped-Query Attention (GQA) and Byte Pair Encoding (BPE) tokenization.
+
+**Key Features:**
+- GPT-2-style transformer architecture.
+- Grouped-Query Attention implementation.
+- Custom BPE tokenizer.
+- Training on the Shakespeare dataset.
+- Text generation using the trained model.
+
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/REPLACE-WITH-GPT2-REPO-NAME)
 
 ---
 
-## 📊 GitHub Stats
+### 3. Business Ontology Framework
+
+**Python | Knowledge Graphs | MCP | Semantic Systems**
+
+A Python framework for defining, validating, and querying structured business ontologies.
+
+**Key Features:**
+- Ontology definition and validation.
+- Business concept and relationship modeling.
+- Graph-based knowledge representation.
+- Semantic resolution and query planning.
+- MCP server exposing ontology tools to AI agents.
+- Browser-based interface.
+- Retail, Healthcare and Education example ontologies.
+
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/business-ontology-framework)
+
+---
+
+### 4. AI-Powered Budget-Aware Tourism Planner
+
+**Python | LangGraph | Multi-Agent Systems | React | SerpApi**
+
+A multi-agent tourism planning system designed to generate budget-aware travel itineraries for Northern Pakistan.
+
+**Key Features:**
+- Specialized agents for accommodation, flights, transport and seasonal destinations.
+- Budget-aware itinerary generation.
+- Flight search integration using SerpApi.
+- Coordinated agent workflows using LangGraph.
+
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/REPLACE-WITH-TOURISM-REPO-NAME)
+
+---
+
+## 💻 Other Projects
+
+### AI Interview & Career Prep Platform
+
+**React · Node.js · Express · MongoDB · Socket.IO · Gemini API**
+
+An AI-powered interview preparation platform with mock interviews, adaptive follow-up questions, automated resume scoring and feedback.
+
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/AI-Interview-Career-Prep-Platform)
+
+### ShopWave — MERN E-Commerce Platform
+
+**React · Node.js · Express · MongoDB · Stripe · Cloudinary**
+
+A full-stack e-commerce platform featuring buyer and administrator workflows, authentication, product management and payment integration.
+
+[🌐 Live Demo](https://shopwave-frontend-jade.vercel.app/) · [📁 GitHub Repository](https://github.com/mehdi-dev-code/MERN_Project_E-commerce-website)
+
+### ChatterBox — Real-Time Chat Application
+
+**React · Node.js · Socket.IO · Zustand · MongoDB**
+
+A real-time messaging application featuring online presence indicators, authentication and live communication.
+
+[🌐 Live Demo](https://chatter-box-ten-omega.vercel.app/) · [📁 GitHub Repository](https://github.com/mehdi-dev-code/Chatter-Box)
+
+### Exploratory Data Analysis Projects
+
+**Python · Pandas · NumPy · Matplotlib · Seaborn**
+
+A collection of exploratory data analysis projects focused on data processing, analysis and visualization.
+
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/EDA_Projects)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdi-dev-code&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-dev-code&layout=compact&theme=radical&hide_border=true)
+![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdi-dev-code&show_icons=true&theme=github_dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehdi-dev-code&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-dev-code&layout=compact&theme=github_dark&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehdi-dev-code&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📬 Get in Touch
-
 <div align="center">
 
+*"Building intelligent systems that solve real-world problems."*
+
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-ali-a33881296/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdi035559@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehdi-dev-code)
