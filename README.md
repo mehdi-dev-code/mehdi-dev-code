@@ -119,7 +119,7 @@ A multi-agent tourism planning system designed to generate budget-aware travel i
 - Flight search integration using SerpApi.
 - Coordinated agent workflows using LangGraph.
 
-[📁 GitHub Repository](https://github.com/mehdi-dev-code/REPLACE-WITH-TOURISM-REPO-NAME)
+[📁 GitHub Repository](https://github.com/mehdi-dev-code/AI-Powered-Budget-Aware-Tourism-Planner)
 
 ---
 
